@@ -2,6 +2,13 @@
 
 This project is a simple React-based application that allows users to upload a JSON file and manage records. The app includes features like uploading a file, displaying the data in a list, and providing buttons for editing or deleting records.
 
+## Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js : `^18.20.3` [Download and Install](https://nodejs.org/en/download/package-manager)
+- npm: Comes with Node.js, but ensure you are using the latest version.
+
 ## Installation
 
 1. Clone the repository
